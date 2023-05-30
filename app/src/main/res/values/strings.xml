@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit converter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_value_only_in_kilograms">enter value only in kilograms</string>
+    <string name="pound">Pound</string>
+    <string name="gram">gram</string>
+    <string name="ton">Ton</string>
+    <string name="milligram">milligram</string>
+</resources>
